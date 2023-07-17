@@ -1,4 +1,4 @@
-[![MasterHead](https://img.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_39422-971.jpg?w=900&t=st=1689623438~exp=1689624038~hmac=5168fec74cec6a6e77b7e0ed6031d85cf7e8e8fad023864ee74d7eb1e8f32bf7)
+![MasterHead](https://img.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_39422-971.jpg?w=900&t=st=1689623438~exp=1689624038~hmac=5168fec74cec6a6e77b7e0ed6031d85cf7e8e8fad023864ee74d7eb1e8f32bf7)
 <h1 align="center">Hi 👋, I'm Vedant Dahale</h1>
 <h3 align="center">A passionate web enthusiast from India</h3>
 
