@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vedant Dahale</h1>
-<h3 align="center">A passionate web enthusiast from India</h3>
+<h3 align="center">A passionate tech enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vedant1100&label=Profile%20views&color=0e75b6&style=flat" alt="vedant1100" /> </p>
 
